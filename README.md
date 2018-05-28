@@ -14,6 +14,3 @@
   -Результаты планування - https://docs.google.com/spreadsheets/d/1boEYJevMC1zRHPI-ftn7vFzjddT5e-UomYMGgAPh5HQ/edit#gid=1566601514
 
 
-
-
-Documentation - read file "User Manual.docx"
