@@ -11,6 +11,8 @@
   
   [Product backlog](https://drive.google.com/open?id=1zqYQrvDOsD2uEPSQYLFSE-jVBQk2PwaP)
 ======  
+  [Documentation(h/w docs)](https://drive.google.com/open?id=1KyRusOho9I7-eRYo6nIfgNrfgis1kgnL)
+======
   -Результаты планування - https://docs.google.com/spreadsheets/d/1boEYJevMC1zRHPI-ftn7vFzjddT5e-UomYMGgAPh5HQ/edit#gid=1566601514
 
 
